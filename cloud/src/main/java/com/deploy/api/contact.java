@@ -9,7 +9,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
-//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
+
 @Entity
 @Table(name="contact")
 public class contact {
